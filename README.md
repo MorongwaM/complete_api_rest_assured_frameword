@@ -1,11 +1,12 @@
 # README #
 
 This readme file will explain how to setup the project from the begining to execution
-### What is this repository for? ###
+### API Framework ###
+in this readme file i will covering all the setups and how to execute
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Setup
+* execution
+* execution 2
 
 ### How do I get set up? ###
 
