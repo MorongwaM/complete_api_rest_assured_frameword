@@ -11,6 +11,7 @@ import static common.RequestBuilder.*;
 @Test
 public class DeleteUserTest {
 
+    // This test deletes the user from  the list
     @Description("As an API user, I want to delete a User")
     @Severity(SeverityLevel.NORMAL)
     public void deleteUsertest(){
