@@ -1,7 +1,6 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
+This readme file will explain how to setup the project from the begining to execution
 ### What is this repository for? ###
 
 * Quick summary
