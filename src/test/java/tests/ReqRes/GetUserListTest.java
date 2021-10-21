@@ -11,7 +11,7 @@ import static org.hamcrest.Matchers.*;
 @Story("Get User List")
 @Test
 public class GetUserListTest {
-
+    // this method gets the list of all the users
     @Description("As an API user, I want to get the list of all Users")
     @Severity(SeverityLevel.BLOCKER)
     public void getUserListtest(){
